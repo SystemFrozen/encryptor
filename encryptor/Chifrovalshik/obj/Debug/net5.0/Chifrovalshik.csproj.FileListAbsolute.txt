@@ -1,0 +1,16 @@
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\bin\Debug\net5.0\Chifrovalshik.exe
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\bin\Debug\net5.0\Chifrovalshik.deps.json
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\bin\Debug\net5.0\Chifrovalshik.runtimeconfig.json
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\bin\Debug\net5.0\Chifrovalshik.runtimeconfig.dev.json
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\bin\Debug\net5.0\Chifrovalshik.dll
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\bin\Debug\net5.0\ref\Chifrovalshik.dll
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\bin\Debug\net5.0\Chifrovalshik.pdb
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.csproj.AssemblyReference.cache
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.AssemblyInfoInputs.cache
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.AssemblyInfo.cs
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.csproj.CoreCompileInputs.cache
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.dll
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\ref\Chifrovalshik.dll
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.pdb
+C:\Users\salij\Downloads\Chifrovalshik-master\Chifrovalshik\obj\Debug\net5.0\Chifrovalshik.genruntimeconfig.cache
